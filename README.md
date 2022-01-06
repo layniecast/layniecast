@@ -1,5 +1,5 @@
 - 👋  Hi all! 
-- 👩🏻‍💻  I’m @layniecast.
+- 👩🏻‍💻  I’m Laynie. 
 - 📝  I first learned how to use Tableau and from there have branched out to Python. Python is really fun and I enjoy it!
 - 👀  I’m interested in expanding my knowledge and possible job opportunities.
 - 🌱  I’m currently learning Javascript.
