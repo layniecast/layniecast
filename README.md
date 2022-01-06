@@ -1,7 +1,8 @@
 👋🏼 Hi all!
 
 - 👩🏻‍💻  I’m Laynie and I have a Bachelor of Arts in Psychology and a Master of Science in Childhood/Special Education. 
-- 📝  I first learned how to use Tableau and from there have branched out to Python. Python is really fun and I enjoy it!
+- 📝  I first learned how to use Tableau and from there have branched out to Python. 
+- 🐍  Python is really fun and I enjoy it!
 - 👀  I’m interested in expanding my knowledge and possible job opportunities.
 - 🌱  I’m currently learning Javascript.
 - 💞️  I’m looking to collaborate on knowledge sharing and Python discussions.  
