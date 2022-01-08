@@ -1,7 +1,6 @@
 👋🏼 Hi all!
 
 - 👩🏻‍💻  I’m Laynie and I'm bilingual: Spanish and English!
-- 📚  I love reading, cooking and coding.
 - 🏫  I have a Bachelor of Arts in Psychology and a Master of Science in Childhood/Special Education. 
 - 🎓  I also have a certificate in Data Visualization from NYU. 
 - 📝  I first learned how to use Tableau and from there have branched out to Python. 
@@ -10,6 +9,7 @@
 - 🌱  I’m currently learning Javascript.
 - 💞️  I’m looking to collaborate on knowledge sharing and Python discussions.  
 - 📍  Originally from 🇩🇴, now based out of 🇺🇸
+- 📚  I love reading, cooking and coding.
 - 📫  I can be reached at elaynecast@gmail.com
 
 
