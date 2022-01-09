@@ -18,6 +18,10 @@ ________________________________________________________________________________
 🧰 My Languages and Toolbox:
  
  <img src="https://user-images.githubusercontent.com/87791968/148447308-de7c31a3-32ff-4005-baab-593f9824a8cc.png" width="100" height="100">  <img src="https://user-images.githubusercontent.com/87791968/148446979-c8f2c362-e7ad-4213-8811-9d68fb79ae2f.png" width="100" height="100">  <img src="https://user-images.githubusercontent.com/87791968/148457795-f0d823a1-aaa2-4116-9672-5e30f206fe5b.png" width="300" height="100">
+ 
+👩🏻‍💻 Currently Learning:
+ 
+<img src="https://user-images.githubusercontent.com/87791968/148673436-5c36c33f-ff1b-4c8b-805b-5d690c1493a4.png" width="100", height="100>
 
 ____________________________________________________________________________________________________________________________________________________________________
 
