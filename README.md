@@ -21,11 +21,7 @@ ________________________________________________________________________________
  
 👩🏻‍💻 I am currently learning:
  
-<img src="https://user-images.githubusercontent.com/87791968/152100645-44fdc3f7-4177-4c59-8afb-dc49a096cb57.png" width="100" height="100">
-
-<img src="https://user-images.githubusercontent.com/87791968/152100698-f0ffcea1-e6cc-45ad-b00b-a4a249d1a5f0.png" width="100" height="100">
-
-<img src="https://user-images.githubusercontent.com/87791968/148673436-5c36c33f-ff1b-4c8b-805b-5d690c1493a4.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/87791968/152100645-44fdc3f7-4177-4c59-8afb-dc49a096cb57.png" width="100" height="100">  <img src="https://user-images.githubusercontent.com/87791968/152100698-f0ffcea1-e6cc-45ad-b00b-a4a249d1a5f0.png" width="100" height="100">  <img src="https://user-images.githubusercontent.com/87791968/148673436-5c36c33f-ff1b-4c8b-805b-5d690c1493a4.png" width="100" height="100">
 
 
 ____________________________________________________________________________________________________________________________________________________________________
