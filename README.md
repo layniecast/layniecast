@@ -2,7 +2,9 @@
 
 - 👩🏻‍💻  I’m Laynie and I'm bilingual: Spanish and English!
 - 🏫  I have a Bachelor of Arts in Psychology and a Master of Science in Childhood/Special Education. 
-- 🎓  I also have a certificate in Data Visualization from NYU. 
+- 🎓  I also have a certificate in Data Visualization from NYU (September 2021). 
+- 👩🏻‍💻  I am working on Software Development with Python from NYU (Expected July 2022). 
+- 👩🏻‍💻  I also hope to get a certificate in Full Stack Web Development. 
 - 📝  I first learned how to use Tableau and from there have branched out to Python. 
 - 🐍  Python is really fun and I enjoy it!
 - 👀  I’m interested in expanding my knowledge and possible job opportunities.
