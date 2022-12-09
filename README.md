@@ -24,8 +24,7 @@ ________________________________________________________________________________
 
 👩🏻‍💻 I am currently learning:
 
-<img src="https://user-images.githubusercontent.com/87791968/204213557-0434f5e5-ffb9-442f-8de2-409b37ac001b.png" width="100" height="100"> <img src="https://user-images.githubusercontent.com/87791968/206636265-be490e7c-c3ed-4351-ac96-2bc993fc0580.png" width="100" height="100">
-
+<img src="https://user-images.githubusercontent.com/87791968/204213557-0434f5e5-ffb9-442f-8de2-409b37ac001b.png" width="100" height="100"> <img src="https://user-images.githubusercontent.com/87791968/206636981-f7465755-5b17-4c78-9485-e2544914f141.png" width="100" height="100"> <img src="https://user-images.githubusercontent.com/87791968/206636265-be490e7c-c3ed-4351-ac96-2bc993fc0580.png" width="100" height="100">
 
 ____________________________________________________________________________________________________________________________________________________________________
 
