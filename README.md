@@ -20,12 +20,11 @@ ________________________________________________________________________________
 🧰 My Languages and Toolbox:
  
  <img src="https://user-images.githubusercontent.com/87791968/148447308-de7c31a3-32ff-4005-baab-593f9824a8cc.png" width="100" height="100">  <img src="https://user-images.githubusercontent.com/87791968/148446979-c8f2c362-e7ad-4213-8811-9d68fb79ae2f.png" width="100" height="100">  <img src="https://user-images.githubusercontent.com/87791968/148457795-f0d823a1-aaa2-4116-9672-5e30f206fe5b.png" width="300" height="100"> 
-<img src="https://user-images.githubusercontent.com/87791968/152100645-44fdc3f7-4177-4c59-8afb-dc49a096cb57.png" width="100" height="100"> <img src="https://user-images.githubusercontent.com/87791968/152100698-f0ffcea1-e6cc-45ad-b00b-a4a249d1a5f0.png" width="100" height="100"> <img src="https://user-images.githubusercontent.com/87791968/148673436-5c36c33f-ff1b-4c8b-805b-5d690c1493a4.png" width="100" height="80">
+<img src="https://user-images.githubusercontent.com/87791968/152100645-44fdc3f7-4177-4c59-8afb-dc49a096cb57.png" width="100" height="100"> <img src="https://user-images.githubusercontent.com/87791968/152100698-f0ffcea1-e6cc-45ad-b00b-a4a249d1a5f0.png" width="100" height="100"> <img src="https://user-images.githubusercontent.com/87791968/148673436-5c36c33f-ff1b-4c8b-805b-5d690c1493a4.png" width="100" height="100">
 
 👩🏻‍💻 I am currently learning:
 
-<img src="https://user-images.githubusercontent.com/87791968/204213557-0434f5e5-ffb9-442f-8de2-409b37ac001b.png" width="100" height="100">
-<img src="https://user-images.githubusercontent.com/87791968/206636265-be490e7c-c3ed-4351-ac96-2bc993fc0580.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/87791968/204213557-0434f5e5-ffb9-442f-8de2-409b37ac001b.png" width="100" height="100"> <img src="https://user-images.githubusercontent.com/87791968/206636265-be490e7c-c3ed-4351-ac96-2bc993fc0580.png" width="100" height="100">
 
 
 ____________________________________________________________________________________________________________________________________________________________________
